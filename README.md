@@ -41,3 +41,11 @@ The objective is to assess quality of growth, not just topline performance.
 5. Luxury segment driving premium mix
 
 Full executive summary available in /docs/Executive-Summary.md
+
+🛠 Tools Used
+
+*Power BI
+
+*DAX (Advanced filtering & highlight logic)
+
+*Data modelling (date intelligence, MoM analysis)
