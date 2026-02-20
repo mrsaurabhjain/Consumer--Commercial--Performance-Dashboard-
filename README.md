@@ -3,41 +3,41 @@ Project Overview
 
 This project presents an executive-level Power BI dashboard analysing monthly commercial performance across:
 
-Net Sales Value (NSV)
+1. Net Sales Value (NSV)
 
-Average Selling Price (ASP)
+2. Average Selling Price (ASP)
 
-Promotional Intensity
+3. Promotional Intensity
 
-Consumer Segment Growth
+4. Consumer Segment Growth
 
-Retailer Performance
+5. Retailer Performance
 
 The objective is to assess quality of growth, not just topline performance.
 
 🔍 Key Business Questions Answered
 
-Is revenue growth volume-led or price-led?
+1. Is revenue growth volume-led or price-led?
 
-Are promotions driving incremental or diluted value?
+2. Are promotions driving incremental or diluted value?
 
-Which consumer segments are accretive to portfolio mix?
+3. Which consumer segments are accretive to portfolio mix?
 
-Which retailers should be prioritised commercially?
+4. Which retailers should be prioritised commercially?
 
-Is recent momentum sustainable?
+5. Is recent momentum sustainable?
 
 
 🧠 Key Insights (December 2024 Example)
 
-NSV: £218.5K (+2.9% MoM)
+1. NSV: £218.5K (+2.9% MoM)
 
-Units: +8.9%
+2. Units: +8.9%
 
-ASP: -5.5% (compression)
+3. ASP: -5.5% (compression)
 
-Growth primarily volume-led
+4. Growth primarily volume-led
 
-Luxury segment driving premium mix
+5. Luxury segment driving premium mix
 
 Full executive summary available in /docs/Executive-Summary.md
