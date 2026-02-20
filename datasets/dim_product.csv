@@ -1,0 +1,26 @@
+ProductID,Brand,PriceTier,BasePrice,PremiumFlag
+1,Brand A,Super Premium,33.93,<function <lambda> at 0x7fa5ff19fb70>
+2,Brand B,Value,80.44,<function <lambda> at 0x7fa5ff19fb70>
+3,Brand C,Super Premium,73.98,<function <lambda> at 0x7fa5ff19fb70>
+4,Brand B,Premium,40.31,<function <lambda> at 0x7fa5ff19fb70>
+5,Brand A,Super Premium,114.29,<function <lambda> at 0x7fa5ff19fb70>
+6,Brand D,Value,79.89,<function <lambda> at 0x7fa5ff19fb70>
+7,Brand C,Value,89.48,<function <lambda> at 0x7fa5ff19fb70>
+8,Brand A,Premium,108.05,<function <lambda> at 0x7fa5ff19fb70>
+9,Brand D,Super Premium,82.44,<function <lambda> at 0x7fa5ff19fb70>
+10,Brand D,Super Premium,49.56,<function <lambda> at 0x7fa5ff19fb70>
+11,Brand B,Premium,30.55,<function <lambda> at 0x7fa5ff19fb70>
+12,Brand A,Super Premium,65.65,<function <lambda> at 0x7fa5ff19fb70>
+13,Brand D,Super Premium,41.84,<function <lambda> at 0x7fa5ff19fb70>
+14,Brand C,Value,61.65,<function <lambda> at 0x7fa5ff19fb70>
+15,Brand C,Super Premium,108.33,<function <lambda> at 0x7fa5ff19fb70>
+16,Brand B,Super Premium,52.43,<function <lambda> at 0x7fa5ff19fb70>
+17,Brand D,Premium,32.21,<function <lambda> at 0x7fa5ff19fb70>
+18,Brand A,Premium,55.63,<function <lambda> at 0x7fa5ff19fb70>
+19,Brand C,Value,110.68,<function <lambda> at 0x7fa5ff19fb70>
+20,Brand D,Super Premium,47.21,<function <lambda> at 0x7fa5ff19fb70>
+21,Brand D,Super Premium,84.77,<function <lambda> at 0x7fa5ff19fb70>
+22,Brand B,Super Premium,20.05,<function <lambda> at 0x7fa5ff19fb70>
+23,Brand C,Value,55.26,<function <lambda> at 0x7fa5ff19fb70>
+24,Brand C,Value,50.48,<function <lambda> at 0x7fa5ff19fb70>
+25,Brand A,Premium,36.47,<function <lambda> at 0x7fa5ff19fb70>

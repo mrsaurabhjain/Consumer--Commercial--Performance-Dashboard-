@@ -1,0 +1,7 @@
+ConsumerSegmentID,ConsumerType,PromoSensitive
+1,Business,False
+2,Leisure,True
+3,Luxury,False
+4,Value Seeker,True
+5,Gifter,False
+6,Impulse,True

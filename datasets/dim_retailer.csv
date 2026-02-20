@@ -1,0 +1,41 @@
+RetailerID,RetailerName,Region,StrategicTier,RetailerSize
+1,Retailer_1,Americas,Tier C,Medium
+2,Retailer_2,Middle East,Tier C,Small
+3,Retailer_3,Europe,Tier B,Large
+4,Retailer_4,Americas,Tier C,Medium
+5,Retailer_5,Americas,Tier B,Medium
+6,Retailer_6,Middle East,Tier B,Medium
+7,Retailer_7,Europe,Tier C,Medium
+8,Retailer_8,Europe,Tier B,Medium
+9,Retailer_9,Americas,Tier C,Medium
+10,Retailer_10,Asia,Tier C,Large
+11,Retailer_11,Americas,Tier A,Large
+12,Retailer_12,Americas,Tier C,Medium
+13,Retailer_13,Americas,Tier A,Large
+14,Retailer_14,Americas,Tier C,Small
+15,Retailer_15,Middle East,Tier C,Medium
+16,Retailer_16,Europe,Tier A,Small
+17,Retailer_17,Middle East,Tier A,Small
+18,Retailer_18,Middle East,Tier C,Medium
+19,Retailer_19,Middle East,Tier B,Large
+20,Retailer_20,Americas,Tier A,Small
+21,Retailer_21,Asia,Tier B,Medium
+22,Retailer_22,Europe,Tier B,Small
+23,Retailer_23,Asia,Tier B,Small
+24,Retailer_24,Middle East,Tier A,Small
+25,Retailer_25,Middle East,Tier B,Small
+26,Retailer_26,Asia,Tier A,Large
+27,Retailer_27,Asia,Tier B,Small
+28,Retailer_28,Asia,Tier C,Small
+29,Retailer_29,Middle East,Tier C,Small
+30,Retailer_30,Middle East,Tier A,Large
+31,Retailer_31,Europe,Tier C,Small
+32,Retailer_32,Europe,Tier C,Small
+33,Retailer_33,Middle East,Tier B,Large
+34,Retailer_34,Asia,Tier A,Large
+35,Retailer_35,Asia,Tier B,Large
+36,Retailer_36,Europe,Tier B,Small
+37,Retailer_37,Middle East,Tier B,Large
+38,Retailer_38,Europe,Tier B,Large
+39,Retailer_39,Europe,Tier B,Small
+40,Retailer_40,Americas,Tier B,Large
